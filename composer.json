@@ -41,14 +41,14 @@
         "illuminate/console": "^7.0|^8.0",
         "illuminate/database": "^7.0|^8.0",
         "illuminate/support": "^7.0|^8.0",
-        "rinvex/laravel-support": "^4.0.0",
+        "alikemalcivelek/laravel-support": "dev-laravel-v8",
         "spatie/eloquent-sortable": "^3.7.0",
         "spatie/laravel-sluggable": "^2.2.0",
         "spatie/laravel-translatable": "^4.2.0"
     },
     "require-dev": {
         "codedungeon/phpunit-result-printer": "^0.27.0",
-        "illuminate/container": "^7.0.0",
+        "illuminate/container": "^7.0|^8.0",
         "phpunit/phpunit": "^9.0.0"
     },
     "autoload": {
