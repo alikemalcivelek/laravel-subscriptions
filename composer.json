@@ -36,12 +36,16 @@
             "homepage": "https://github.com/rinvex/laravel-subscriptions/contributors"
         }
     ],
+    "repositories": [{
+        "url": "https://github.com/alikemalcivelek/laravel-support",
+        "type": "vcs"
+    }],
     "require": {
         "php": "^7.4.0",
         "illuminate/console": "^7.0|^8.0",
         "illuminate/database": "^7.0|^8.0",
         "illuminate/support": "^7.0|^8.0",
-        "rinvex/laravel-support": "^4.0.0",
+        "alikemalcivelek/laravel-support": "dev-laravel-v8",
         "spatie/eloquent-sortable": "^3.7.0",
         "spatie/laravel-sluggable": "^2.2.0",
         "spatie/laravel-translatable": "^4.2.0"
